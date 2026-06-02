@@ -36,8 +36,6 @@ dataset/velodyne：保存 LiDAR 点云文件
 
 dataset/calib：保存相机标定文件
 
-sample_data：保存用于 GitHub 展示的少量样例数据
-
 docs：保存实验文档或截图说明
 
 
