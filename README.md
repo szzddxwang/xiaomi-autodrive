@@ -74,8 +74,8 @@ scripts/collect_kitti_dataset.py
 进入脚本目录：
 
 ```bash
-cd ~/真实路劲/week2_data_collection/scripts
-source ~/真实路劲/venv/bin/activate
+cd ~/真实路径/week2_data_collection/scripts
+source ~/真实路径/venv/bin/activate
 ```
 
 然后运行 1000 帧采集程序：
@@ -141,8 +141,8 @@ scripts/visualize_kitti_labels.py
 运行方式如下：
 
 ```bash
-cd ~/真实路劲/week2_data_collection/scripts
-source ~/真实路劲/venv/bin/activate
+cd ~/真实路径/week2_data_collection/scripts
+source ~/真实路径/venv/bin/activate
 python visualize_kitti_labels.py
 ```
 
@@ -156,8 +156,7 @@ dataset/vis_000100.png
 dataset/vis_000500.png
 ```
 
-这三张图用于展示不同时间点的标注效果，不需要对全部 1000 帧进行可视化
-
+这三张图用于展示不同时间点的标注效果，没有对全部 1000 帧进行可视化处理
 最后将成果上传到 github 中
 
 ## 9. 第二周完成结果
